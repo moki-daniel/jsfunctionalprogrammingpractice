@@ -1,1 +1,2 @@
 # jsfunctionalprogrammingpractice
+Imperative and declartive programming
