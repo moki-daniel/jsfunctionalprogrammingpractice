@@ -81,8 +81,7 @@ const reverseString = (string)=> {
     // (("tra") + "t") + "S"
     // ("trat") + "S"
     // "tratS"
-
-
+  
     return reverseString(string.substring(1)) + string.charAt(0);
 }
 }
